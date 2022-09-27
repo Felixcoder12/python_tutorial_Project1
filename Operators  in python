@@ -1,0 +1,81 @@
+""" Operators In Python | Python Tutorials For Absolute Beginners In Hindi #21 """
+# Operators
+
+# 1: Arithmetic Operators
+# 2: Assignment Operators
+# 3: Comparison Operators
+# 4: Logical Operators
+# 5: Identity Operators
+# 6: Membership Operators
+# 7: Bitwise Operators
+
+print("Arithmetic Operators\n"
+      "Arithmetic Operators are used for numeric calculations.")
+print("for Example:")
+
+print("5 + 2 is", 5+2)
+print("5 - 4 is", 5-2)
+print("5 * 4 is", 5*2)
+print("5 / 4 is", 5/2)
+print("5 // 3 is", 5//3)
+print("4 ** 3 is", 4**3)
+print("5 % 3 is", 5%3)
+
+print("Assignment Operators\n"
+      "Assignment Operators are used to assign values of numbers.")
+print("For Example:")
+x = 5
+print(x)
+
+print("Comparison Operators\n"
+      "Comparison Operators are used to compare two numbers or variables.")
+print("For Example:")
+
+i = 3
+print(i == 5)
+
+i = 3
+print(i != 5)
+
+i = 3
+print(i <= 5)
+
+i = 3
+print(i >= 5)
+
+print("Logical Operators\n"
+      "Logical Operators are important for making (GUI)Graphical User Interface.")
+print("For Example:")
+a = True
+b = False
+print(a and b)
+
+print(a or b)
+
+
+print("Identity Operators\n"
+      "used to identify numbers.")
+print("For Example:")
+
+print(5 is not 5)
+
+print("Membership Operators\n"
+      "Membership Operators are used to find numbers in list's or in varibles.")
+print("For Example:")
+
+List = [3, 45, 34, 12, 78, 34]
+print(3 in List)
+
+print(3 not in List)
+
+
+print("Bitwise Operators\n"
+      "Bitwise Operators are used to work with binary.")
+print("For Example:")
+
+# 0 - 00
+# 1 - 01
+# 2 - 10
+# 3 - 11
+print(0 | 1)
+print(0 & 1)
